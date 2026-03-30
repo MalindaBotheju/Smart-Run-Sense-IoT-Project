@@ -37,13 +37,13 @@ Designed for mobility, this node can be built using either an **ESP32 DevKitC** 
 Designed for continuous environmental monitoring at fixed locations (like running tracks or parks), this node is powered by a more robust **ESP32-S3** module.
 
 <p align="center">
-  <img src="screenshots/pole.jpeg" width="300" alt="Assembled Smart Pole Device">
-  &nbsp;&nbsp;
-  <img src="screenshots/pole_pcb.jpeg" width="400" alt="Smart Pole PCB Layout">
-  &nbsp;&nbsp;
-  <img src="screenshots/pole_pcb_3d.png" width="400" alt="Smart Pole 3D PCB View">
-  &nbsp;&nbsp;
-  <img src="screenshots/pole_pcb_schemetic.png" width="800" alt="Smart Pole Schematic">
+  <img src="screenshots/pole.jpeg" width="23%" alt="Assembled Smart Pole Device">
+  &nbsp;
+  <img src="screenshots/pole_pcb.jpeg" width="23%" alt="Smart Pole PCB Layout">
+  &nbsp;
+  <img src="screenshots/pole_pcb_3d.png" width="23%" alt="Smart Pole 3D PCB View">
+  &nbsp;
+  <img src="screenshots/pole_pcb_schemetic.png" width="23%" alt="Smart Pole Schematic">
 </p>
 
 ---
