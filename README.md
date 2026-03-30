@@ -18,11 +18,11 @@ The system utilizes a dual-node hardware approach, consisting of mobile wearable
 Designed for mobility, this node can be built using either an **ESP32 DevKitC** or a compact **ESP32-C3 Super Mini** microcontroller. 
 
 <p align="center">
-  <img src="screenshots/wearable.jpg" width="300" alt="Assembled Wearable Device">
+  <img src="screenshots/wearable.jpeg" width="300" alt="Assembled Wearable Device">
 </p>
 
 <p align="center">
-  <img src="screenshots/wearable_pcb.jpg" width="400" alt="Wearable PCB Layout">
+  <img src="screenshots/wearable_pcb.jpeg" width="400" alt="Wearable PCB Layout">
   &nbsp;&nbsp;
   <img src="screenshots/wearable_pcb_3d.jpg" width="400" alt="Wearable PCB 3D View">
 </p>
@@ -37,13 +37,13 @@ Designed for mobility, this node can be built using either an **ESP32 DevKitC** 
 Designed for continuous environmental monitoring at fixed locations (like running tracks or parks), this node is powered by a more robust **ESP32-S3** module.
 
 <p align="center">
-  <img src="screenshots/pole.jpg" width="300" alt="Assembled Smart Pole Device">
+  <img src="screenshots/pole.jpeg" width="300" alt="Assembled Smart Pole Device">
 </p>
 
 <p align="center">
-  <img src="screenshots/pole_pcb.jpg" width="400" alt="Smart Pole PCB Layout">
+  <img src="screenshots/pole_pcb.jpeg" width="400" alt="Smart Pole PCB Layout">
   &nbsp;&nbsp;
-  <img src="screenshots/pole_pcb_3d.jpg" width="400" alt="Smart Pole 3D PCB View">
+  <img src="screenshots/pole_pcb_3d.png" width="400" alt="Smart Pole 3D PCB View">
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ A Python-based Cloud Run microservice acts as the forecasting engine.
 
 * **Algorithm:** Uses a Random Forest Regressor (via scikit-learn) because it efficiently handles the highly non-linear nature of environmental data and trains in seconds using standard CPUs without requiring strict data scaling.
   <br>
-  <img src="screenshots/random_forest.jpg" width="500" alt="Random Forest Algorithm Architecture">
+  <img src="screenshots/random_forest.png" width="500" alt="Random Forest Algorithm Architecture">
 
 * **Data Scope:** The model queries the last 14 days (~20,000 readings) of data from Firestore to learn daily and weekly patterns.
 
