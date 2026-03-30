@@ -16,6 +16,15 @@ The system combines real-time environmental sensing, cloud-based data storage, m
 
 ---
 
+## 🗺️ System Architecture Diagram
+The diagram below illustrates the comprehensive project structure and data connections, organizing the system into four distinct logical layers: Edge Hardware (Wearable and Smart Pole nodes with their shared sensor suite), Cloud Ingestion & Storage (Firestore acting as the central data hub), Cloud Processing (Google Cloud Run executing the scikit-learn Random Forest forecasting engine), and the Application Layer (Mobile App visualizing live and forecasted conditions).
+
+<p align="center">
+  <img src="system_architecture.png" width="900" alt="SmartRunSense System Architecture Diagram">
+</p>
+
+---
+
 ## ✨ Key Features
 * 📡 **Real-Time Monitoring:** Collects localized environmental data using wearable devices and stationary "Smart Poles".
 * 🤖 **Machine Learning Forecasting:** Automatically predicts air quality and weather conditions 7 days into the future.
