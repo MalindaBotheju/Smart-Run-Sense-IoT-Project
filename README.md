@@ -18,17 +18,13 @@ The system utilizes a dual-node hardware approach, consisting of mobile wearable
 Designed for mobility, this node can be built using either an **ESP32 DevKitC** or a compact **ESP32-C3 Super Mini** microcontroller. 
 
 <p align="center">
-  <img src="screenshots/wearable.jpeg" width="300" alt="Assembled Wearable Device">
-</p>
-
-<p align="center">
-  <img src="screenshots/wearable_pcb.jpeg" width="400" alt="Wearable PCB Layout">
-  &nbsp;&nbsp;
-  <img src="screenshots/wearable_pcb_3d.jpg" width="400" alt="Wearable PCB 3D View">
-</p>
-
-<p align="center">
   <img src="screenshots/wearable_schematic.png" width="800" alt="Wearable Schematic">
+  &nbsp;
+  <img src="screenshots/wearable_pcb_3d.jpg" width="400" alt="Wearable PCB 3D View">
+  &nbsp;
+  <img src="screenshots/wearable.jpeg" height="250" alt="Assembled Wearable Device">
+  &nbsp;
+  <img src="screenshots/wearable_pcb.jpeg" width="400" alt="Wearable PCB Layout"> 
 </p>
 
 ---
@@ -37,13 +33,13 @@ Designed for mobility, this node can be built using either an **ESP32 DevKitC** 
 Designed for continuous environmental monitoring at fixed locations (like running tracks or parks), this node is powered by a more robust **ESP32-S3** module.
 
 <p align="center">
-  <img src="screenshots/pole.jpeg" height="250" alt="Assembled Smart Pole Device">
-  &nbsp;
-  <img src="screenshots/pole_pcb.jpeg" height="250" alt="Smart Pole PCB Layout">
+  <img src="screenshots/pole_pcb_schemetic.png" height="250" alt="Smart Pole Schematic">
   &nbsp;
   <img src="screenshots/pole_pcb_3d.png" height="250" alt="Smart Pole 3D PCB View">
   &nbsp;
-  <img src="screenshots/pole_pcb_schemetic.png" height="250" alt="Smart Pole Schematic">
+  <img src="screenshots/pole.jpeg" height="250" alt="Assembled Smart Pole Device">
+  &nbsp;
+  <img src="screenshots/pole_pcb.jpeg" height="250" alt="Smart Pole PCB Layout">
 </p>
 
 ---
@@ -90,12 +86,12 @@ The mobile UI provides comprehensive data visualization for the end-user:
 
 <p align="center">
   <img src="screenshots/home_page.jpeg" width="180" alt="Home Page">
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="screenshots/monitor_page.jpeg" width="180" alt="Live Monitor">
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="screenshots/schedule_page.jpeg" width="180" alt="Smart Schedule">
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="screenshots/analytics_page_1.jpeg" width="180" alt="Analytics Part 1">
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="screenshots/analytics_page_2.jpeg" width="180" alt="Analytics Part 2">
 </p>
