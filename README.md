@@ -20,7 +20,7 @@ The system combines real-time environmental sensing, cloud-based data storage, m
 The diagram below illustrates the comprehensive project structure and data connections, organizing the system into four distinct logical layers: Edge Hardware (Wearable and Smart Pole nodes with their shared sensor suite), Cloud Ingestion & Storage (Firestore acting as the central data hub), Cloud Processing (Google Cloud Run executing the scikit-learn Random Forest forecasting engine), and the Application Layer (Mobile App visualizing live and forecasted conditions).
 
 <p align="center">
-  <img src="system_architecture.png" width="800" alt="SmartRunSense System Architecture Diagram">
+  <img src="screenshots/system_architecture.png" width="900" alt="SmartRunSense System Architecture Diagram">
 </p>
 
 ---
