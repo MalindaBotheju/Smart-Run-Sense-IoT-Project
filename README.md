@@ -38,15 +38,11 @@ Designed for continuous environmental monitoring at fixed locations (like runnin
 
 <p align="center">
   <img src="screenshots/pole.jpeg" width="300" alt="Assembled Smart Pole Device">
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="screenshots/pole_pcb.jpeg" width="400" alt="Smart Pole PCB Layout">
   &nbsp;&nbsp;
   <img src="screenshots/pole_pcb_3d.png" width="400" alt="Smart Pole 3D PCB View">
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="screenshots/pole_pcb_schemetic.png" width="800" alt="Smart Pole Schematic">
 </p>
 
@@ -93,7 +89,7 @@ The mobile UI provides comprehensive data visualization for the end-user:
 ## App Screenshots
 
 <p align="center">
-  <img src="screenshots/home_page.jpeg" width="180" alt="Home Page / Run Score">
+  <img src="screenshots/home_page.jpeg" width="180" alt="Home Page">
   &nbsp;&nbsp;
   <img src="screenshots/monitor_page.jpeg" width="180" alt="Live Monitor">
   &nbsp;&nbsp;
