@@ -12,7 +12,7 @@
 ## 📖 Overview
 Outdoor running provides cardiovascular and mental health benefits, but exposes runners to thermodynamic and respiratory stresses caused by environmental conditions like heat, humidity, particulate matter, and gaseous pollutants. SmartRunSense is an Internet of Things (IoT) system designed to optimize performance and reduce physiological risks by helping runners make informed decisions about when and where to train.
 
-The system combines real-time environmental sensing, cloud-based data storage, machine learning predictive analytics, and a companion mobile application to provide both current and forecasted environmental conditions.
+The system combines real-time environmental sensing, cloud-based data storage, machine learning predictive analytics, and a companion mobile application to provide both current and forecasted environmental conditions. 
 
 ---
 
