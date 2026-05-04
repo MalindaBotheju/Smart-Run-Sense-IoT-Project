@@ -40,9 +40,13 @@ The system utilizes a dual-node hardware approach, consisting of mobile wearable
 Designed for mobility, this node can be built using either an **ESP32 DevKitC** or a compact **ESP32-C3 Super Mini** microcontroller. 
 
 <p align="center">
-  <img src="screenshots/wearable_schematic.png" height="250" alt="Wearable Schematic">
+  <img src="screenshots/wearable_schematic_1.png" height="250" alt="Wearable Schematic (Board-01)">
   &nbsp;
-  <img src="screenshots/wearable_pcb_3d.jpg" height="250" alt="Wearable PCB 3D View">
+  <img src="screenshots/wearable_schematic_2.png" height="250" alt="Wearable Schematic (Board-02)">
+  &nbsp;
+  <img src="screenshots/wearable_pcb_3D_1.png" height="250" alt="Wearable PCB 3D View (Board-01)">
+  &nbsp;
+  <img src="screenshots/wearable_pcb_3D_2.png" height="250" alt="Wearable PCB 3D View (Board-02)">
   &nbsp;
   <img src="screenshots/wearable.jpeg" height="250" alt="Assembled Wearable Device">
   &nbsp;
